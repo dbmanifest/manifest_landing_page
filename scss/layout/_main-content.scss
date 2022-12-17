@@ -132,7 +132,7 @@
     width: 100%;
     background-color: #fff;
     color: black;
-    padding: 120px 0 50px;
+    padding: 60px 0 50px;
     @include flexbox;
     text-align: center;
 
@@ -145,6 +145,7 @@
     .cryptocurrencies-info-cards {
       width: 80%;
       max-width: 400px;
+      height: 800px;
       @include flexbox($jtf: space-evenly);
       .info-card {
         width: 100%;

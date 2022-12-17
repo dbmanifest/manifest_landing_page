@@ -342,7 +342,7 @@
   width: 100%;
   background-color: #fff;
   color: black;
-  padding: 120px 0 50px;
+  padding: 60px 0 50px;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
@@ -358,6 +358,7 @@
 .main-content .cryptocurrencies-section .cryptocurrencies-info-cards {
   width: 80%;
   max-width: 400px;
+  height: 800px;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
