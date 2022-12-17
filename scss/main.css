@@ -36,7 +36,7 @@
 }
 .main-header-navbar__logo {
   height: auto;
-  width: 500px;
+  width: auto;
 }
 .main-header-navbar__login {
   order: 1;
